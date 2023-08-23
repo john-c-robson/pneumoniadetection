@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="gui/resources">
+    <file>open.svg</file>
+    <file>image.svg</file>
+    <file>next.svg</file>
+    <file>prev.svg</file>
+    <file>save.svg</file>
+    <file>table.svg</file>
+    <file>graph.svg</file>
+  </qresource>
+</RCC>
